@@ -2,7 +2,7 @@ import React from 'react';
 
 function ListRenderer() {
   // Array of strings to display
-  const fruits = ['Apple 🍎', 'Banana 🍌', 'Cherry 🍒', 'Date 🥭'];
+  const fruits = ['Apple vegetable🍎', 'Banana vegetable🍌', 'Cherry vegetable🍒', 'Date drink🥭'];
 
   return (
     <div>
